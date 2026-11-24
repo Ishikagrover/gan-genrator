@@ -1,0 +1,4 @@
+Epoch,D Loss,G Loss,Recognizable out of 25,Repeated shapes or artifacts
+1,0.358,1.852,11,"Noisy background, blobby shapes resembling simple arches or basic shoe/shirt outlines with heavy noise."
+5,0.429,1.909,20,More defined necklines and sleeves; some repetitive shoe soles and generic t-shirt patterns emerge.
+10,0.453,1.795,22,"Clearer textures resembling fabric; repeating templates of t-shirts, boots, and long sleeves with minor structural warping."
